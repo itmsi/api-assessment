@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log*
+.env
+.env.*
+.git
+.gitignore
+.vscode
+.DS_Store
+logs
+uploads
+storages
+docs
+test
+*.md
+Jenkinsfile
+bitbucket-pipelines.yml
